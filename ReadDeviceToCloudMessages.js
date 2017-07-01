@@ -2,7 +2,7 @@
 
 var EventHubClient = require('azure-event-hubs').Client;
 
-var connectionString = 'HostName=cloudcomputing-iothub.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=CePTtSNo4V9teICNxlAPo/WouAa5MzRzjSdaf6/QJPA=';
+var connectionString = 'HostName=azureIOThub2017.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=X7Z3y3jEeMzOfaATdL8tf4OkX12G8uZ7S0C2QW79kCM=';
 
 var printError = function (err) {
   console.log(err.message);
